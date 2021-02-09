@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AppTest.DemoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-07T21:23:32" hostname="LAPTOP-41F83L5A" time="0.003">
+  <properties/>
+  <testcase name="testInfo" classname="AppTest.DemoTest" time="0.003"/>
+  <system-out><![CDATA[test method
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
